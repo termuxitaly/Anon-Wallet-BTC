@@ -1,0 +1,27 @@
+📱 SERVIZI UTILI WALLET ANONIMI 
+
+💴 SAMOURAI WALLET:
+Descrizione: Samourai è un portafoglio mobile progettato esclusivamente per Bitcoin, con un forte focus sulla privacy. Include modalità stealth, Ricochet per complicare la tracciabilità delle transazioni, e Whirlpool per mixare le monete.
+
+‼️ Piattaforme: Android
+
+🌐 https://coinweb.com/7-best-anonymous-bitcoin-wallets/
+
+💴 WASABI WALLET
+Descrizione: 
+Wasabi è un portafoglio desktop open-source focalizzato sulla privacy. Utilizza CoinJoin per mixare le transazioni, rendendo difficile tracciare le origini delle monete.
+
+Funzioni: Integrazione con Tor, gestione avanzata delle monete (Coin Control), supporto per indirizzi Bech32.
+
+‼️ Piattaforme: Windows, Mac OSX, Linux
+
+🌐https://coinweb.com/7-best-anonymous-bitcoin-wallets/
+
+💴 LEDGER NANO X CON TOR
+Descrizione: 
+Anche se non è un portafoglio software, il Ledger Nano X può essere utilizzato in combinazione con la rete Tor per migliorare l'anonimato delle transazioni. Offre alta sicurezza e supporta una vasta gamma di criptovalute.
+
+Funzioni: Supporto Bluetooth, gestione di oltre 5500 cripto asset, due fattori di autenticazione.
+
+‼️ Piattaforme: iOS, Android, Desktop
+🌐 https://coinweb.com/7-best-anonymous-bitcoin-wallets/
