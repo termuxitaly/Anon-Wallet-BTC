@@ -1,0 +1,6 @@
+bitcoinlib==0.6.2
+requests==2.31.0
+pycryptodome==3.17
+termcolor==2.2.0
+tqdm==4.65.0
+pyotp==2.7.0
